@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jugador
+  - Colectable
+  - Enemigo1
+  - Roca
+  - escalera
+  - cactus
+  - plataformaMovil
+  - enemigo1
+  - Target1
+  - enemigo2
+  - Target2
+  - Target3
+  - enemigo3
+  - fondo-movil
+  - capa1
+  - capa2
+  - capa3
+  - capa4
+  - capa5
+  - capa6
+  - capa7
+  - Target-jugador
+  - capa11
+  - capa22
+  - capa33
+  - capa44
+  - capa55
+  - capa66
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Fondo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
